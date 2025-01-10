@@ -23,7 +23,7 @@ La página está desplegada y se puede visualizar en el siguiente enlace:
 
 ## Versionado
  
-- **Versión**: 1.0.0
+- **Versión**: 1.0
 
 ## Autor
 - [Adrián Ginel Mañas](https://github.com/adriuno)
