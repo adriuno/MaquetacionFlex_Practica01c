@@ -29,7 +29,6 @@ La página está desplegada y se puede visualizar en el siguiente enlace:
 - [Adrián Ginel Mañas](https://github.com/adriuno)
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
+Sin licencia
 ## Recursos adicionales
 - [Mis repositorios de GitHub](https://github.com/adriuno)
